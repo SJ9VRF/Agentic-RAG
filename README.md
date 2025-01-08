@@ -1,1 +1,1 @@
-# Agentic-RAG
+# Agentic Retrieval Augmentation Generation (RAG)
